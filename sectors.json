@@ -1,0 +1,145 @@
+[
+  {
+    "sub_categories": [
+      { "title": "Construction Materials" },
+      { "title": "Electronics and Optics" },
+      {
+        "sub_categories": [
+          { "title": "Bakery & confectionery products" },
+          { "title": "Beverages" },
+          { "title": "Fish & fish products" },
+          { "title": "Meat & meat products" },
+          { "title": "Milk & dairy products" },
+          { "title": "Other" },
+          { "title": "Sweets & snack food" }
+        ],
+        "title": "Food and Beverage"
+      },
+      {
+        "sub_categories": [
+          { "title": "Bathroom/sauna" },
+          { "title": "Children's room" },
+          { "title": "Bedroom" },
+          { "title": "Kitchen" },
+          { "title": "Living room" },
+          { "title": "Office" },
+          { "title": "other(Furniture)" },
+          { "title": "Outdoor" },
+          { "title": "Project furniture" }
+        ],
+        "title": "Furniture"
+      },
+      {
+        "sub_categories": [
+          { "title": "Machinery components" },
+          { "title": "Machinery quipment/tools" },
+          { "title": "Manufacture of machinery" },
+          {
+            "sub_categories": [
+              { "title": "Aluminium and steel workboats" },
+              { "title": "Boat/Yacht building" },
+              { "title": "Ship repair and conversion" }
+            ],
+            "title": "Maritime"
+          },
+          { "title": "Metal structures" },
+          { "title": "Other" },
+          { "title": "Repair and maintenance service" }
+        ],
+        "title": "Machinery"
+      },
+      {
+        "title": "Metalworking",
+        "sub_categories": [
+          { "title": "Construction of metal stuctures" },
+          { "title": "Houses and buildings" },
+          { "title": "Metal products" },
+          {
+            "sub_categories": [
+              { "title": "CNC-machining" },
+              { "title": "Forgings, Fasteners" },
+              { "title": "Gas, Plasma, Laser cutting" },
+              { "title": "MIG, TIG, Aluminum welding" }
+            ],
+            "title": "Metal works"
+          }
+        ]
+      },
+      {
+        "title": "Plastic and Rubber",
+        "sub_categories": [
+          { "title": "Packaging" },
+          { "title": "Plastic goods" },
+          {
+            "title": "Plastic processing technology",
+            "sub_categories": [
+              { "title": "Blowing" },
+              { "title": "Moulding" },
+              { "title": "Plastics welding and processing" }
+            ]
+          },
+          { "title": "Plastic profiles" }
+        ]
+      },
+      {
+        "sub_categories": [
+          { "title": "Advertising" },
+          { "title": "Book/Periodicals printing" },
+          { "title": "Labelling and packaging printing" }
+        ],
+        "title": "Printing"
+      },
+      {
+        "title": "Textile and Clothing",
+        "sub_categories": [{ "title": "Clothing" }, { "title": "Textile" }]
+      },
+      {
+        "sub_categories": [
+          { "title": "Other (Wood)" },
+          { "title": "Wooden building meterials" },
+          { "title": "Wooden houses" }
+        ],
+        "title": "Wood"
+      }
+    ],
+    "title": "Manufacturing",
+    "id": "ub5qYTmghZWxpUNcWReF"
+  },
+  {
+    "sub_categories": [
+      { "title": "Creative industries" },
+      { "title": "Energy technology" },
+      { "title": "Environment" }
+    ],
+    "title": "Other",
+    "id": "PtwlOxjROk2KWIpkq0Mi"
+  },
+  {
+    "sub_categories": [
+      { "title": "Business services" },
+      { "title": "Engineering" },
+      {
+        "sub_categories": [
+          { "title": "Data processing, Web portals, E-marketing" },
+          { "title": "Programming, Consultancy" },
+          { "title": "Software, Hardware" },
+          { "title": "Telecommunications" }
+        ],
+        "title": "Information Technology and Telecommunications"
+      },
+      { "title": "Tourism" },
+      { "title": "Translation services" },
+      {
+        "title": "Transport and Logistics",
+        "sub_categories": [
+          { "title": "Air" },
+          { "title": "Rail" },
+          { "title": "Road" },
+          { "title": "Water" }
+        ]
+      }
+    ],
+    "title": "Service",
+    "id": "HSTqgROTKC3pDqU7hx5F"
+  }
+]

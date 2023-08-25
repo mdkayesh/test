@@ -66,7 +66,6 @@ const getUserData = async (userId) => {
   try {
     const docRef = doc(db, "users", userId);
     const data = await getDoc(docRef);
-    console.log("data", data.data(), userId);
     return { ...data.data(), id: data.id };
   } catch (error) {
     console.log(error);

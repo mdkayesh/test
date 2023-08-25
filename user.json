@@ -1,0 +1,15 @@
+{
+  "name": "User name",
+  "sectors": {
+    "Service": ["Engineering"],
+    "Manufacturing": [
+      "Construction Materials",
+      "Machinery components",
+      "Boat/Yacht building",
+      "Aluminium and steel workboats"
+    ],
+    "Other": ["Energy technology"]
+  },
+  "agree_to_terms": true,
+  "id": "7bcmNnmD67ZlGwqwFQD9D36iuE43"
+}

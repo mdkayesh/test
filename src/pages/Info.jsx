@@ -92,8 +92,8 @@ const Info = () => {
                     </h2>
                     <ul className="text-left">
                       {userData?.sectors?.[item]?.length > 0 ? (
-                        userData?.sectors?.[item]?.map((sec) => (
-                          <li className="flex gap-3 items-baseline">
+                        userData?.sectors?.[item]?.map((sec, index) => (
+                          <li className="flex gap-3 items-baseline" key={index}>
                             <AiFillCheckCircle className="text-primary min-w-[16px]" />
                             <span>{sec}</span>
                           </li>

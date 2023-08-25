@@ -42,7 +42,6 @@ const Home = () => {
       // get user name
 
       getUserData(user?.uid).then((data) => {
-        console.log("data", data);
         if (data?.sectors) {
           const { Manufacturing, Other, Service } = data.sectors;
           setSelectedData((prev) => {
